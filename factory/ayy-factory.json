@@ -1,0 +1,9 @@
+{
+	"name": "ayy-factory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1bf240b6-e0fd-487c-8691-9e9d1501f232",
+		"tenantId": "6c22ae13-c59e-41a8-9da5-0657d4076d8c"
+	}
+}
